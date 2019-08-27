@@ -1,6 +1,19 @@
 .oddListItems{
     color: orangered;
 }
+.img-circle {
+    text-align: center;
+}
+.row {
+    text-align: center;   
+}
+.col-lg-4 {
+    text-align: center;  
+}
+.marketing {
+    padding-top: 100px;
+    text-align: center;   
+}
 #CssSelectorList li:nth-child(even) {
     font-weight: 900;
 }
